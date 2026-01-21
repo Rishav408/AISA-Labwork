@@ -33,6 +33,13 @@ This repository contains lab assignments and projects for the **Artificial Intel
 ### 🛠️ Dependencies & Resources
 - `haarcascade_frontalface_default.xml`: Pre-trained XML model from OpenCV used for detecting frontal faces.
 
+### 📚 Study Materials & Notes (Folder)
+- `1. Modern AI.pdf`: Foundational AI reference.
+- `2. Pattern_recognition_and_Machine_learning.pdf`: In-depth guide on ML and pattern recognition.
+- `3. Deep Learning with Python.pdf`: Practical guide to Deep Learning.
+- `AI_Agriculture_System.pdf`: Application note on AI in agriculture.
+- `Exam Notes.docx`: Consolidated study notes for examinations.
+
 ---
 
 ## 🚀 How to Run
